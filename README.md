@@ -7,7 +7,7 @@ Repositorio para realizar pruebas de clonado,  y pullommit
    
  2- CARLOS ARIZA  
    
- 3- Nuevo participante 
+ 3- Ezequiel Sosa
    
  4-  
    
